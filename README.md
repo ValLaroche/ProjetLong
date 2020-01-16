@@ -30,7 +30,7 @@ Example files are located in "./simulation_files" :
         2. test_model_ecoli.poe
 
 A command line would be :
-    > ./code/edit_model2.py ./simulation_files/e_coli_core.model2 ./simulation_files/test_model_ecoli.poe
+    ```./code/edit_model2.py ./simulation_files/e_coli_core.model2 ./simulation_files/test_model_ecoli.poe```
 
     2. analyze_model2.py :
     Example files are located in "./results/archive" :
@@ -40,6 +40,6 @@ A command line would be :
         4. annot_node.csv
 
 A command line would be : 
-    > ./code/analyze_model2.py ./results/archive/e_coli_core_new.model2 ./results/archive/test_model_ecoli_new.poe ./results/archive/test_model_ecoli_new.por ./results/archive/annot_node.csv
+    ```./code/analyze_model2.py ./results/archive/e_coli_core_new.model2 ./results/archive/test_model_ecoli_new.poe ./results/archive/test_model_ecoli_new.por ./results/archive/annot_node.csv```
 
 All generated files will be located in "./results" for further analysis
