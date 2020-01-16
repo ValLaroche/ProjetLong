@@ -16,8 +16,8 @@ The second step uses an updated .model2 file, its simulation results (.poe and .
 
 To use both files, Python version 3.7 is mandatory.
 It also requires the following packages, both of which normally installed with a traditional Python installation :
-    1. argparse
-    2. textwarp
+1. argparse
+2. textwarp
 
 ## How to use
 
