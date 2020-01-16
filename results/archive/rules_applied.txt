@@ -1,0 +1,38 @@
+At 500.000000, the rule(s) R9, R22, R30, R35, R37, R52, R60 has or have been
+used 1, 1, 1, 1, 1, 1, 1 times respectively
+At 1500.000000, the rule(s) R6, R8, R15, R20, R22, R31, R38, R39, R47, R48, R56,
+R58, R61, R66, R68, R77, R83, R89, R92, R93 has or have been used 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1 times respectively
+At 2500.000000, the rule(s) R1, R3, R24, R28, R31, R32, R33, R43, R44, R53, R60,
+R62, R64, R75, R78, R81, R86, R88, R93, R94 has or have been used 1, 1, 2, 1, 1,
+1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 2 times respectively
+At 3500.000000, the rule(s) R2, R4, R6, R8, R17, R19, R20, R21, R23, R24, R26,
+R27, R28, R29, R30, R32, R39, R42, R43, R45, R59, R63, R66, R70, R71, R74, R76,
+R79, R81, R82, R84, R85, R88, R90, R92, R93, R94, R95 has or have been used 1,
+2, 1, 1, 1, 1, 2, 1, 2, 1, 3, 1, 2, 2, 1, 1, 3, 3, 3, 1, 3, 2, 1, 2, 2, 2, 1, 2,
+1, 3, 4, 4, 2, 2, 2, 3, 2, 237409 times respectively
+At 4500.000000, the rule(s) R95 has or have been used 999524 times respectively
+At 5500.000000, the rule(s) R95 has or have been used 1001083 times respectively
+At 6500.000000, the rule(s) R95 has or have been used 998985 times respectively
+At 7500.000000, the rule(s) R95 has or have been used 998985 times respectively
+At 8500.000000, the rule(s) R95 has or have been used 999407 times respectively
+At 9500.000000, the rule(s) R95 has or have been used 1000725 times respectively
+At 10500.000000, the rule(s) R95 has or have been used 998535 times respectively
+At 11500.000000, the rule(s) R95 has or have been used 1000887 times
+respectively
+At 12500.000000, the rule(s) R95 has or have been used 999575 times respectively
+At 13500.000000, the rule(s) R95 has or have been used 1001140 times
+respectively
+At 14500.000000, the rule(s) R95 has or have been used 1001021 times
+respectively
+At 15500.000000, the rule(s) R95 has or have been used 1000468 times
+respectively
+At 16500.000000, the rule(s) R95 has or have been used 1001090 times
+respectively
+At 17500.000000, the rule(s) R95 has or have been used 999008 times respectively
+At 18500.000000, the rule(s) R95 has or have been used 1000350 times
+respectively
+At 19500.000000, the rule(s) R95 has or have been used 1000790 times
+respectively
+At 20500.000000, the rule(s) R95 has or have been used 1000790 times
+respectively
